@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+}
+
+.card {
+    background-color: rgb(238, 79, 5);
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.card_title {
+    padding-top: 9px;
+    font-size: 40px;
+    margin: 0;
+}
+
+.card_contend {
+    font-size:20px ;
+    padding: 20px;
+    background: rgb(21, 85, 2);
+    text-align: justify;
+}
+
+.card_img{
+    width: 250px;
+    border-radius: 50%;
+}
